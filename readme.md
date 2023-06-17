@@ -1,0 +1,1 @@
+(bad) Jokes generator using API from blablagues.net
